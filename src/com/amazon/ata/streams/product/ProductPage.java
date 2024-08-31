@@ -17,6 +17,14 @@ import static com.amazon.ata.streams.product.types.SortByEnum.REWARD_LOW_TO_HIGH
 
 public class ProductPage {
 
+    /**
+     * Tally Summary
+     * Original score: 74
+     * Par: 47
+     * New score: 41
+     * 6 below par!
+    **/
+
     private static final String LOOK_VARIANT = "LOOK";
 
     private final ProductV2 productV2;
